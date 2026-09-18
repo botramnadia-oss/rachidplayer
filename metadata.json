@@ -1,0 +1,7 @@
+{
+  "name": "Rachidplayer",
+  "description": "Offline local media player with device storage scanner, high-res audio and video playback, and direct link streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
